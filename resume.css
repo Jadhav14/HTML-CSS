@@ -1,0 +1,15 @@
+
+html
+{
+    background-color: grey;
+}
+body
+{
+    height: 1500px;
+    width: 1000px;
+    border: 2px solid navy;
+    position: relative;
+    left: 200px;
+    padding: 35px;
+    background-color:ghostwhite;
+}

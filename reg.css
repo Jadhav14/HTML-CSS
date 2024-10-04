@@ -1,0 +1,28 @@
+
+body
+{
+    background-image: url(../IMG/login.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+div
+{
+    background-color: orchid;
+    width: 375px;
+    height:400px; 
+   position: relative;
+    top:100px;
+   left:500px;
+   border: 2px solid chartreuse;
+   padding: 70px 30px;
+   text-align: center;
+
+} 
+#para
+{   background-color:violet;
+  
+} 
+

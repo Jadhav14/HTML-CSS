@@ -1,0 +1,29 @@
+
+body
+{
+    background-image: url(C:\Users\OS-4\Pictures\HTML-CSS-1\image.png);
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-position: center;
+}
+
+div
+{
+    background-color:orchid;
+    width: 300px;
+    height:400px; 
+   position: relative;
+    top:100px;
+   left:500px;
+   border: 2px solid none;
+   padding: 70px 30px;
+   text-align: center;
+
+} 
+#para
+{   background-color:violet;
+  
+} 
+
+
